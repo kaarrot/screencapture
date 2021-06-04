@@ -1,5 +1,7 @@
 # A minimal screen capture and annotation tool for X11 windowing systems
 
+![](images/demo.gif)
+
 ### Key Features:
 - Simple annotation and undo capabilities selected region gets copied to X11 clipboard and a file.
 - Large selections use INCR protocol.
